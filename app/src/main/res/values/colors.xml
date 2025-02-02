@@ -1,0 +1,14 @@
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#FF5722</color>
+    <color name="primary_dark">#D32F2F</color>
+    <color name="primary_text">#212121</color>
+
+    <!-- Background Colors -->
+    <color name="background">#FFFFFF</color>
+    <color name="item_background">#FFFFFF</color>
+
+    <!-- Alarm-specific Colors -->
+    <color name="alarm_background">#FFCDD2</color>
+    <color name="alarm_text">#B71C1C</color>
+</resources>
