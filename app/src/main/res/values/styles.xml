@@ -1,11 +1,16 @@
 <resources>
-
-    <!-- Simple Theme for Light Mode -->
-    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
-        <item name="colorPrimary">@color/primary</item>
-        <item name="colorPrimaryDark">@color/primary_dark</item>
-        <item name="colorAccent">@color/primary</item>
-        <item name="android:windowBackground">@color/background</item>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#2F2F2F</item>
+        <item name="colorPrimaryDark">#2F2F2F</item>
+        <item name="colorAccent">#FEE1B6</item>
     </style>
 
+    <!-- Custom TimePicker Theme -->
+    <style name="TimePickerTheme" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="colorPrimary">#CCE5E3</item>
+        <item name="colorPrimaryVariant">#2F2F2F</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorAccent">#FEE1B6</item>
+    </style>
 </resources>

@@ -1,8 +1,13 @@
 <resources>
-    <string name="app_name">ShakieWakie</string>
-    <string name="add_alarm">Add Alarm</string>
-    <string name="pick_time">Pick a Time</string>
-    <string name="save_alarm">Save Alarm</string>
-    <string name="alarm_ringing">Wake Up! Alarm is Ringing!</string>
-    <string name="shake_to_stop">Shake your phone to stop the alarm</string>
+    <string name="app_name">Shake Alarm</string>
+    <string name="alarm_turned_off">Alarm turned off!</string>
+    <string name="shake_to_turn_off_alarm">Shake to turn off the alarm!</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="start_alarm">Start Alarm</string>
+    <string name="set_your_alarm_time">Set your alarm time</string>
+    <string name="shake_to_turn_off" />
+    <string name="alarm_ringing" />
+    <string name="alarm_set" />
+    <string name="alarm_off" />
 </resources>
+
